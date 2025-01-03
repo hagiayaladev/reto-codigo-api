@@ -34,4 +34,3 @@ graph TD
     %% Definición de clases de servicios
     classDef service fill:#ddd,stroke:#000,stroke-width:2px,color:#000
     class BFFAPI,ClienteAPI,ProductosAPI,Auth service
-ar
